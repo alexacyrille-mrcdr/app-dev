@@ -1,7 +1,8 @@
 # app-dev
 My first repository.
 
-## 🎬 Favorite Movies and Series 
+# 🎬 Favorite Movies and Series
+
 
 ## Snowden (2016) – *Biographical Thriller*
 A tense drama based on real events, exploring Edward Snowden’s moral dilemma and the global implications of surveillance.
@@ -84,9 +85,10 @@ A nostalgic and emotional journey through time, friendship, and growing up, feat
 ---
 
 ## Spy x Family (2022) – *Action-Comedy Anime*
-A spy, assassin, and telepath form a fake family for a mission, blending espionage with quirky domestic life.
+A spy, assassin, and telepath form a fake family for a mission, blending espionage with quirky domesti
 
 **Voice Cast/Characters:**
+
 - Takuya Eguchi as Loid Forger
 - Atsumi Tanezaki as Anya Forger
 - Saori Hayami as Yor Forger
@@ -105,3 +107,4 @@ A magical tale of wishes, destiny, and love, where a genie changes lives in unex
 - Go Gyu-pil as Sayyid
 - Lee Zoo Young as Min-ji
 - Kim Mi-kyung as O Pan Geum
+
